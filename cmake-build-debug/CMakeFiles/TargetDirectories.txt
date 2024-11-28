@@ -1,0 +1,3 @@
+C:/Users/sebaa/CLionProjects/PoblemSolvingAGAINNN/cmake-build-debug/CMakeFiles/PoblemSolvingAGAINNN.dir
+C:/Users/sebaa/CLionProjects/PoblemSolvingAGAINNN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sebaa/CLionProjects/PoblemSolvingAGAINNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
